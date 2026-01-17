@@ -1,2 +1,2 @@
-@Library('devops-sharedlibrary@release/devops')_
+@Library('seh-sharedlibrary@release/devops')_
 build()
